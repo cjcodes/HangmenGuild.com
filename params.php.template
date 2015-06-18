@@ -1,0 +1,14 @@
+<?php
+
+$params = (object) array(
+    'captcha_key' => 'CAPTCHA_KEY',
+    'mail' => array(
+        'from' => 'FROM@EMAIL',
+        'from_name' => 'FROM ME',
+        'smtp_host' => 'smtp.live.com',
+        'password' => 'PASSWORD',
+        'recipients' => array(
+            'a@recipient.com',
+        ),
+    ),
+);

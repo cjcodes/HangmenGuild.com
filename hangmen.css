@@ -1,0 +1,87 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.featurette {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.raid-progress {
+    float: right;
+    padding-left: 1em;
+}
+
+.mythic-progress {
+    color: #d2322d;
+}
+
+.heroic-progress {
+    color: #D27E2D;
+}
+
+.guild-progress ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+.guild-progress li {
+    margin: 1em 0;
+}
+
+.jumbotron {
+    background-color: #BB0000;
+    background-image: -webkit-linear-gradient(top,#d2322d 0,#d9534f 100%);
+    background-image: linear-gradient(to bottom,#d2322d 0,#d9534f 100%);
+    background-repeat: repeat-x;
+    color: white;
+    text-align: center;
+}
+
+.jumbotron .lead {
+    width: 80%;
+    font-size: 30px;
+    margin: 1em auto;
+}
+
+.paladin { color: #f48cba; font-weight: bold; }
+.mage { color: #68ccef; font-weight: bold; }
+.warlock { color: #9382c9; font-weight: bold; }
+.druid   { color: #ff7c0a; font-weight: bold; }
+
+.footer {
+    text-align: center;
+}
+
+.captcha-col {
+    margin-top: 2em;
+}
+
+.btn-block {
+    margin-top: 1em;
+}
+
+#recaptcha_area {
+    margin: 0 auto;
+}
+
+.alert {
+    margin: 0;
+    text-align: center;
+}
+
+.popover ul {
+    list-style-type: disc;
+    margin: 0 1em;
+}
+
+.popover li {
+    margin: 0;
+}
+
