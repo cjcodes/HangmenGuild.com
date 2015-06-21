@@ -56,17 +56,32 @@
     <div class="row guild-progress">
         <div class="col-md-3 col-md-offset-2">
             <ul>
-                <li class="heroic">Kargath Bladefist</li>
-                <li class="heroic">The Butcher</li>
-                <li class="heroic">Tectus</li>
-                <li class="heroic">Brackenspore</li>
+                <li class="">Hellfire Assult</li>
+                <li class="">Iron Reaver</li>
+                <li class="">Kormrok</li>
             </ul>
         </div>
+        <div class = "col-md-3 col-md-offset-2">
+            <ul>
+                <li class="">Hellfire High Council</li>
+                <li class="">Kilrogg Deadeye</li>
+                <li class="">Gorefiend</li>
+            </ul>
+        </div>
+        <div class ="col-md-3 col-md-offset-2">
+            <ul>
+                <li class="">Shadow-Lord Iskar</li>
+                <li class="">Socrethar the Eternal</li>
+                <li class="">Tyrant Velhari</li>
+            </ul>
+        </div>
+        
         <div class="col-md-3 col-md-offset-2">
             <ul>
-                <li class="heroic">Twin Ogron</li>
-                <li class="heroic">Ko'ragh</li>
-                <li class="">Imperator Mar'gok</li>
+                <li class="">Fel Lord Zakuun</li>
+                <li class="">Xhul'horac</li>
+                <li class="">Mannoroth</li>
+                <li class="">Archimonde</li>
             </ul>
         </div>
     </div>
