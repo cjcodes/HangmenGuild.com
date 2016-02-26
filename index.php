@@ -51,6 +51,7 @@
         <span class="glyphicon glyphicon-check normal-progress"></span> Normal
         &nbsp;
         <span class="glyphicon glyphicon-check heroic-progress"></span> Heroic
+        <span class="glyphicon glyphicon-check mythic-progress"></span> Mythic
     </p>
 
     <div class="row guild-progress">
