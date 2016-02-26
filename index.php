@@ -56,32 +56,32 @@
     <div class="row guild-progress">
         <div class="col-md-3 col-md-offset-2">
             <ul>
-                <li class="">Hellfire Assult</li>
-                <li class="">Iron Reaver</li>
-                <li class="">Kormrok</li>
+                <li class="Mythic">Hellfire Assult</li>
+                <li class="Mythic">Iron Reaver</li>
+                <li class="Mythic">Kormrok</li>
             </ul>
         </div>
         <div class = "col-md-3 col-md-offset-2">
             <ul>
-                <li class="">Hellfire High Council</li>
-                <li class="">Kilrogg Deadeye</li>
-                <li class="">Gorefiend</li>
+                <li class="Mythic">Hellfire High Council</li>
+                <li class="Mythic">Kilrogg Deadeye</li>
+                <li class="Heroic">Gorefiend</li>
             </ul>
         </div>
         <div class ="col-md-3 col-md-offset-2">
             <ul>
-                <li class="">Shadow-Lord Iskar</li>
-                <li class="">Socrethar the Eternal</li>
-                <li class="">Tyrant Velhari</li>
+                <li class="Heroic">Shadow-Lord Iskar</li>
+                <li class="Heroic">Socrethar the Eternal</li>
+                <li class="Heroic">Tyrant Velhari</li>
             </ul>
         </div>
         
         <div class="col-md-3 col-md-offset-2">
             <ul>
-                <li class="">Fel Lord Zakuun</li>
-                <li class="">Xhul'horac</li>
-                <li class="">Mannoroth</li>
-                <li class="">Archimonde</li>
+                <li class="Heroic">Fel Lord Zakuun</li>
+                <li class="Heroic">Xhul'horac</li>
+                <li class="Heroic">Mannoroth</li>
+                <li class="Heroic">Archimonde</li>
             </ul>
         </div>
     </div>
