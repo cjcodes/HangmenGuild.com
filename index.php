@@ -51,7 +51,6 @@
         <span class="glyphicon glyphicon-check normal-progress"></span> Normal
         &nbsp;
         <span class="glyphicon glyphicon-check heroic-progress"></span> Heroic
-        <span class="glyphicon glyphicon-check mythic-progress"></span> Mythic
     </p>
 
     <div class="row guild-progress">
@@ -92,25 +91,29 @@
     <h2>Leadership</h2>
     <div class="row">
         <div class="col-md-4">
-            <h2>Luciferkrist</h2>
-            <img src="http://us.battle.net/static-render/us/arthas/31/137842207-avatar.jpg" />
-            <p class="warlock lead">Guild Master</p>
-            <p>His cats are louder than him in Mumble.</p>
-            <p>"Fearless leader."</p>
+            <h2>Havok</h2>
+            <p>Tank lead</p>
+            <p>Lags in real life.</p>
+            
         </div>
         <div class="col-md-4">
             <h2>Rizx</h2>
-            <img src="http://us.battle.net/static-render/us/arthas/191/137861823-avatar.jpg" />
-            <p class="mage lead">Mechanics Lead</p>
-            <p>Um...</p>
+            <p>Fearless Figure Head</p>
             <p>0/10 would never say again.</p>
         </div>
         <div class="col-md-4">
-            <h2>Kunstigg</h2>
-            <img src="http://us.battle.net/static-render/us/arthas/77/137842765-avatar.jpg" />
-            <p class="druid lead">Heal Lead</p>
-            <p>Lifebloom.</p>
-            <p>Oh my god, Lifebloom!</p>
+            <h2>Blutmark</h2>
+            <p>Paladin and good guy lead</p>
+            <p>Sorry guys. wearing the wrong gear</p>
+        </div>    
+        <div class="col-md-4">
+            <h2>Pyraev</h2>
+            <p></p>Dropping hawt spotify playlist></p>
+            <p>Mom</p>
+        </div>
+        <div class="col-md-4">
+            <h2>Roychi</h2>
+            <p> Watchs the sharararara chronicles</p>
         </div>
     </div>
 </div></div>
@@ -140,7 +143,6 @@
             <ul>
                 <li>Tuesday</li>
                 <li>Wednesday</li>
-                <li>Sunday</li>
             </ul>
         </div>
         <form action="mail.php" method="post" role="form">
